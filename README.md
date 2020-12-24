@@ -8,3 +8,5 @@ I decided to upload it as a test and to see if the code can be used for somethin
 Please note that it is not the entire game, just the code because I do not know the
 copyright of the other stuff..
 
+The source code is meant to be an example and will not work directly with any other game unless a bit of tweaking here and there.
+
